@@ -34,3 +34,6 @@ conda install conda-forge::lpips -y
 
 # for save images
 conda install conda-forge::imageio-ffmpeg -y
+
+# PIE-Net
+wget -O real_world_model.t7 "https://ndownloader.figshare.com/files/35467808"
