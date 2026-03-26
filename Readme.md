@@ -1,4 +1,4 @@
-# Intrinsic-Guided Photorealistic Style Transfer for Radiance Fields
+# IPRF: Intrinsic-Guided Photorealistic Style Transfer for Radiance Fields
 ---
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://deepvelop99.github.io/iprf.github.io/)
 [![Accepted](https://img.shields.io/badge/Status-Accepted-green)](https://drive.google.com/file/d/10vp2SWByAJGr-Ccrw68c2hTepsMr5di9/view?usp=sharing)
